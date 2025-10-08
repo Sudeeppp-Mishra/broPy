@@ -7,7 +7,6 @@ A collection of my Python learning projects and notes — inspired by the amazin
 ### 🙌 Credits
 
 All learning material and inspiration belong to **Bro Code** — this repo is just my personal learning log and practice space.
-yt link: <a href="https://www.youtube.com/watch?v=ix9cRaBkVe0">
 
 ---
 
