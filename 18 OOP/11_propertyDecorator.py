@@ -140,13 +140,13 @@ del rectangle.height
 # ---------------------------------------------------------
 # - Python does not strictly enforce access levels; it uses naming conventions.
 #
-#   1️⃣ Public: self.name
+#    Public: self.name
 #       → Freely accessible everywhere.
 #
-#   2️⃣ Protected: self._name
+#    Protected: self._name
 #       → Meant for internal use; still accessible outside, but not recommended.
 #
-#   3️⃣ Private: self.__name
+#    Private: self.__name
 #       → Name-mangled to _ClassName__name to avoid accidental access.
 #
 # - In @property usage:
